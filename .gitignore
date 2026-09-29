@@ -1,0 +1,23 @@
+# 运行时状态与用户私有数据（通知原文、画像、去重记录不入库）
+state/
+inbox/
+
+# 操作系统
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# 编辑器 / IDE
+.idea/
+.vscode/
+*.swp
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Agent 客户端生成的工作区配置
+.zcodeignore
+.mimocode/
